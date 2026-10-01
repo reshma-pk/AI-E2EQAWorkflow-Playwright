@@ -205,8 +205,6 @@ Evidence and screenshots attached
 
 # STEP 7: Commit to Git Repository
 
-Git Repository URL: https://github.com/reshma-pk/AI-E2EQAWorkflow-Playwright.git
-
 Prompt: Now I need to commit all the test artifacts to the Git repository using the GitHub MCP server.
 
 Git Repository URL: https://github.com/reshma-pk/AI-E2EQAWorkflow-Playwright.git
@@ -233,6 +231,7 @@ Descriptive commit message following conventional commit format
 Confirmation of successful push to the provided repository
 Summary of changes
 Complete Workflow Execution
+
 Single Combined Prompt (for Video Demo):
 
 I want to demonstrate a complete end-to-end QA workflow using natural language and MCP servers. Run everything in Chrome (chromium) only.
@@ -254,10 +253,5 @@ STEP 7 - COMMIT TO GIT: Use the GitHub MCP server to commit all new files (respe
 Execute this complete workflow and provide status updates after each step.
 
 See task progress for longer tasks.
-
-Saucedemo-ecommerce.md
-QA_E2E_Prompt.md
-README.md
-E2E_QA_Workflow_Prompts.docx
 
 Track tools and referenced files used in this task.
