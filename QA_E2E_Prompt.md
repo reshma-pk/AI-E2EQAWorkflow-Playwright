@@ -24,7 +24,7 @@ Key features to test
 
 # STEP 2: Create Test Plan
 
-Prompt: Based on the user story SCRUM-101 that we just reviewed, use the playwright-test-planner agent to:
+Prompt: Based on the user story Saucedemo-ecommerce that we just reviewed, use the playwright-test-planner agent to:
 
 Read the application URL and test credentials from the user story
 Explore the application and understand all workflows mentioned in the acceptance criteria
